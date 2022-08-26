@@ -1,0 +1,2 @@
+- JetBrains for the JetBrains Mono font.
+- My Teacher for code examples
