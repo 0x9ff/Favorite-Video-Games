@@ -1,0 +1,29 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+@font-face {
+    font-family: 'PressStart2P';
+    src: url('gfx/ttf/PressStart2P-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'JetBrains-Mono';
+    src: url('gfx/woff/JetBrainsMono-Regular.woff2') format('woff2');
+}
+
+h1 {
+    font-family: 'JetBrains-Mono';
+}
+
+.h1-index {
+    font-family: 'PressStart2P';
+    width: 1200px;
+    padding: 50px;
+}
+
+.p-index {
+    font-family: 'PressStart2P';
+    padding: 050px;
+}
