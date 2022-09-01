@@ -1,9 +1,9 @@
     My Favorite Video Games of All Time
+    By: Ian :)
     -----------------------------------
 
 SPHS PTLW 2022 Project Assignment: Hobby Website
-August 26th, 2022 | Per 6
-By: Ian :)
+September 1st, 2022 | Per 6
 
 
-This website is licensed under the WTFPL license :P
+This website is licensed under the WTFPL license, feel free to use the code in this website to make your own!

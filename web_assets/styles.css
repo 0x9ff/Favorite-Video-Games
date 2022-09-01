@@ -13,17 +13,25 @@ html, body {
     src: url('gfx/woff/JetBrainsMono-Regular.woff2') format('woff2');
 }
 
-h1 {
+/* Default when there isn't a div class selected */
+
+* {
     font-family: 'JetBrains-Mono';
+}
+
+.center {
+    text-align: center;
+    border: 3px black;
 }
 
 .h1-index {
     font-family: 'PressStart2P';
-    width: 1200px;
+    font-size: 200%;
     padding: 50px;
 }
 
 .p-index {
     font-family: 'PressStart2P';
-    padding: 050px;
+    font-size: 115%;
+    padding: 10px;
 }
